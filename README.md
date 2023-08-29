@@ -6,7 +6,7 @@
 - Linkedin: [@dasaninda](https://www.linkedin.com/in/dasaninda/) 
 
 
-🔍 **I'm Currently looking for Software QA Roles**
+🔍 I'm Currently looking for **Software QA Roles**
 <!--
 **dasaninda/dasaninda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
