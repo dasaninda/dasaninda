@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aninda</h1>
-### Hi I'm Aninda👋
+
 
 📫 How to reach me: 
 - Email: dasa15@mcmaster.ca
 - Linkedin: [@dasaninda](https://www.linkedin.com/in/dasaninda/)
+
+<i class="fas fa-search"></i>
 <!--
 **dasaninda/dasaninda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
