@@ -5,8 +5,8 @@
 - Email: dasa15@mcmaster.ca
 - Linkedin: [@dasaninda](https://www.linkedin.com/in/dasaninda/)
 
-<br>
-<br>
+;NBSP
+;NBSP
 
 🔍 **I'm Currently looking for Software QA Roles**
 <!--
