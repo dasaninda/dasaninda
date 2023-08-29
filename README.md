@@ -6,7 +6,10 @@
 - Linkedin: [@dasaninda](https://www.linkedin.com/in/dasaninda/) 
 
 
-🔍 I'm Currently looking for **Software QA Roles**
+🔍 I'm Currently looking for ***Software QA Roles***
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasaninda&label=Profile%20views&color=0e75b6&style=flat" alt="dasaninda" /> </p>
 <!--
 **dasaninda/dasaninda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
