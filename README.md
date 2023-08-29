@@ -3,7 +3,7 @@
 
 📫 How to reach me: 
 - Email: dasa15@mcmaster.ca
-- Linkedin: [@dasaninda](https://www.linkedin.com/in/dasaninda/) ;NBSP ;NBSP
+- Linkedin: [@dasaninda](https://www.linkedin.com/in/dasaninda/) 
 
 
 🔍 **I'm Currently looking for Software QA Roles**
