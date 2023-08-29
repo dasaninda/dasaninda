@@ -5,7 +5,7 @@
 - Email: dasa15@mcmaster.ca
 - Linkedin: [@dasaninda](https://www.linkedin.com/in/dasaninda/)
 
-<i class="fas fa-search"></i>
+🔍 **I'm Currently looking for Software QA Roles**
 <!--
 **dasaninda/dasaninda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
