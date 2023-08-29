@@ -2,7 +2,7 @@
 
 📫 How to reach me: 
 - Email: dasa15@mcmaster.ca
-- Linkedin: hihihi[@dasaninda](https://www.linkedin.com/in/dasaninda/)
+- Linkedin: [@dasaninda](https://www.linkedin.com/in/dasaninda/)
 <!--
 **dasaninda/dasaninda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
