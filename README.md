@@ -2,7 +2,7 @@
 
 
 📫 How to reach me: 
-- Email: dasa15@mcmaster.ca
+- Email: dasaninda@outlook.com
 - Linkedin: [@dasaninda](https://www.linkedin.com/in/dasaninda/) 
 
 
